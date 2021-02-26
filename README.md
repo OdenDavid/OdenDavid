@@ -1,4 +1,4 @@
-<H1 Hi there 👋 My name is David Oden</H1>
+<H1 align='center'>Hi there 👋 My name is David Oden</H1>
 <p align='center'>I am a python developer who is passionate about building software using machine learning and deep learning techniques. I am actively looking for opportunities to improve my growth in data science.</p>
 
 <p align='center'>
