@@ -5,11 +5,11 @@
 
 - 🔭 My most recent work [Get Music Bot](https://github.com/OdenDavid/GetMusicBot)
 
-- 🌱 I’m currently learning **AWS, Airbyte, Airflow, Scala, Snowflake, and DBT**
+- 🌱 I Work with **Python, Docker, ⁠AWS, WordPress, SQL, CMS (Botble by Laravel, Contentful, and Magento 2), ⁠Render**
 
 - 👯 I’m looking to collaborate on [Fraud Detection](https://github.com/OdenDavid/Credit-Card-Fraud-Detection)
 
-- 🤝 I’m looking for help with **Data Engineering Projects**
+- 🤝 I’m looking for help with **Backend and Data Engineering Projects**
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/DavidOden](https://www.datascienceportfol.io/DavidOden)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **davidodenikpi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BG-jujaU7V-Ximn7beyL7D23jv78iyJY/view?usp=sharing](https://drive.google.com/file/d/1BG-jujaU7V-Ximn7beyL7D23jv78iyJY/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BG-jujaU7V-Ximn7beyL7D23jv78iyJY/view?usp=sharing](https://drive.google.com/file/d/1scJBkCeYvLCTPu-KIE6byfUyxWqg2r34/view?usp=drive_link)
 
 - ⚡ Fun fact **I don't know how to skate.**
 
