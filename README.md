@@ -7,7 +7,7 @@
 
 - 🌱 I Work with **Python, Docker, ⁠AWS, WordPress, SQL, CMS (Botble by Laravel, Contentful, and Magento 2), ⁠Render**
 
-- 👯 I’m looking to collaborate on [Fraud Detection](https://github.com/OdenDavid/Credit-Card-Fraud-Detection)
+- 👯 I’m looking to collaborate on LLM applications
 
 - 🤝 I’m looking for help with **Backend and Data Engineering Projects**
 
