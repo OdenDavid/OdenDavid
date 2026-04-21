@@ -12,20 +12,6 @@ I'm a **Technical Product Manager** with over 3 years of building and managing d
 
 ---
 
-## 🏗️ **Recent Projects (i can share)**
-
-### 🏠 **Nesto.ai** - AI-Powered Real Estate Platform
-
-### 👕 **QuickTee** - AI T-Shirt Design Generator
-
-### 🛍️ **Copnow** - Nigerian Fashion Marketplace
-
-### 🧠 **Ventpods 'Joy'** - AI Mental Health Assistant
-
-### ⚡ **SHEMS** - Smart Home Energy Management System
-
----
-
 ## 🛠️ **Core Skills & Technologies**
 
 ### **Product Management**
